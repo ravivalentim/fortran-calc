@@ -13,5 +13,5 @@ program calc
 
     z = x + y
 
-    print *, 'Result: ', z
+    print *, 'The result is: ', z
 end program calc
